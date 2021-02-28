@@ -20,7 +20,6 @@ while True:
 	c.sendall(d.encode('utf-8'))
 	c.close()
 
-
 # baddr = '3C:A0:67:FE:2C:A0'
 # channel = 4
 # s = socket.socket(socket.AF_BLUETOOTH, socket.SOCK_STREAM,socket.BTPROTO_RFCOMM)
